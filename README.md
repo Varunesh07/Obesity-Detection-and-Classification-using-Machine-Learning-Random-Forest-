@@ -21,7 +21,7 @@ It includes complete **data preprocessing, visualization, model training, and ev
 ##  How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/nemo-obesity-classification.git
+   git clone https://github.com/Varunesh07/Obesity-Detection-and-Classification-using-Machine-Learning-Random-Forest-.git
    ```
 2. Install required libraries  
    ```bash
